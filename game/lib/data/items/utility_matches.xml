@@ -1,0 +1,8 @@
+<item name="Matches" type="utility">
+    <properties>
+        <load min="1" max="20" />
+        <capacity value="20" />
+        <sprite file="matches.png" />
+    </properties>
+    <spawn chance="1" />
+</item>

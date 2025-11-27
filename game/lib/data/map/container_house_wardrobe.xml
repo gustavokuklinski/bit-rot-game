@@ -1,0 +1,20 @@
+<map name="house_wardrobe" type="maptile_container" char="house_wardrobe" is_obstacle="true">
+    <visuals>
+        <sprite file="house_wardrobe.png" />
+    </visuals>
+    <capacity value="10" />
+    <loot>
+        <item item="Black Tshirt" chance="1" />
+        <item item="Money 5" chance="1" />
+        <item item="Money 20" chance="0.2" />
+        <item item="Money 50" chance="0.1" />
+        <item item="Money 100" chance="0.1" />
+        <item item="Powerbank" chance="0.3" />
+        <item item="Pistol 9mm" chance="0.1" />
+        <item item="9mm Ammo" chance="0.1" />
+        <item item="Medkit" chance="0.1" />
+        <item item="Batton" chance="0.1" />
+        <item item="Infection Pills" chance="0.1" />
+        <item item="Cigarette" chance="0.1" />
+    </loot>
+</map>

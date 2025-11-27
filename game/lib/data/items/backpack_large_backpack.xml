@@ -1,0 +1,9 @@
+<item name="Large Backpack" type="backpack">
+    <properties>
+        <capacity value="20" />
+        <sprite file="large_backpack.png" />
+    </properties>
+    <loot>
+    </loot>
+    <spawn chance="1" />
+</item>

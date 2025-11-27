@@ -1,0 +1,9 @@
+<item name="Shotgun Shells" type="consumable_ammo">
+    <properties>
+        <status value="ammo" />
+        <load min="5" max="25" />
+        <capacity value="50" />
+        <sprite file="shotgun_shells.png" />
+    </properties>
+    <spawn chance="1" />
+</item>
