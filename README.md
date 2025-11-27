@@ -14,7 +14,7 @@
 
 [FREE DOWNLOAD](https://github.com/gustavokuklinski/bit-rot-builds/archive/refs/heads/main.zip) (without source code)
 
-<iframe frameborder="0" src="https://itch.io/embed/3989421?border_width=0&amp;dark=true" width="550" height="165"><a href="https://gustavokuklinski.itch.io/bit-rot">Bit Rot by Gustavo Kuklinski</a></iframe>
+[![Code coverage](https://itch.io/embed/3989421?border_width=0&amp;dark=tru)]([link](https://itch.io/embed/3989421?border_width=0&amp;dark=tru))
 
 **Help the developer**
 
