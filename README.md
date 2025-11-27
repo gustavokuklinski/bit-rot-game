@@ -14,8 +14,6 @@
 
 [FREE DOWNLOAD](https://github.com/gustavokuklinski/bit-rot-builds/archive/refs/heads/main.zip) (without source code)
 
-[![Code coverage](https://itch.io/embed/3989421?border_width=0&amp;dark=tru)]([link](https://itch.io/embed/3989421?border_width=0&amp;dark=tru))
-
 **Help the developer**
 
 [DONATIONS](https://ko-fi.com/gustavokuklinski) (ko-fi)
