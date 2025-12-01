@@ -12,7 +12,7 @@
 ## Download
 **Build only avaiable for Linux**
 
-[FREE DOWNLOAD](https://github.com/gustavokuklinski/bit-rot-builds/archive/refs/heads/main.zip) (without source code)
+[FREE DOWNLOAD](https://github.com/gustavokuklinski/bit-rot-builds/archive/refs/heads/main.zip)
 
 **Help the developer**
 
@@ -23,8 +23,11 @@ _Donations up to 5 USD can request a copy of the game with source code_
 ## Game requirements
 
 OS: Linux x86_64
+
 RAM: 1GB
+
 DSK: 100MB
+
 CPU: i3 (4th)
 
 ## For linux
@@ -63,7 +66,9 @@ $ ./editor_linux # Game editor
 ## For modding and mapping
 
 Basic structured codding: ```game/lib/data```: XML; ```game/save/game/[TIMESTAMP_DIR/]```: JSON
+
 Basic excel (if needed for mapping): ```game/lib/map```: CSV
+
 Designing: ```game/lib/sprites```: PNG
 
 ```game/``` Game folder have all game assets XML (map and items), CSV (map raw data), JSON (save files) and PNG (tiles and sprites)
