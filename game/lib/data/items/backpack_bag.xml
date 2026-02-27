@@ -1,9 +1,0 @@
-<item name="Bag" type="backpack">
-    <properties>
-        <capacity value="5" />
-        <sprite file="bag.png" />
-    </properties>
-    <loot>
-    </loot>
-    <spawn chance="1" />
-</item>

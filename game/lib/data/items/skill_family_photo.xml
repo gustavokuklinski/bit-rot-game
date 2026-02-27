@@ -1,9 +1,0 @@
-<item name="Family Photo" type="skill">
-    <properties>
-        <sprite file="family_photo_1.png" />
-    </properties>
-    <attributes>
-        <lucky value="0.1" />
-    </attributes>
-    <spawn chance="10" />
-</item>
